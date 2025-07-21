@@ -1,4 +1,6 @@
 print('hello')
 
 def hi():
-  print('i am den'``0
+  print('i am den')
+
+hi()
